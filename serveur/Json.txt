@@ -1,0 +1,1 @@
+[{"sensor":"bme280", "humidity":30.45, "pressure":1043.46, "temperature":26.02, "altitude":-250.61, "timestamp":1579516716}]
